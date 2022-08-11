@@ -1,0 +1,11 @@
+name: FantasyFootball
+version: '${project.version}'
+main: com.tigran.fantasyfootball118.fantasyfootball.FantasyFootball
+api-version: 1.18
+authors: [ Tigran ]
+description: A fantasy football plugin
+commands:
+  gui:
+    descripiton: Open Inventory.
+  admin-gui:
+    descripiton: Open Inventory for admin view.
